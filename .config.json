@@ -1,0 +1,10 @@
+{
+  "stack": {
+    "id": "st-b4235539cd90",
+    "services": {
+      "mdo": {
+        "id": "svc-3b2e0f6dadc2"
+      }
+    }
+  }
+}
