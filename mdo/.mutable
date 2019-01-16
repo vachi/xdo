@@ -1,1 +1,5 @@
-{}
+{
+    "healthCheck": "health",
+    "healthCheckType": "http",
+    "memory": 256
+}
